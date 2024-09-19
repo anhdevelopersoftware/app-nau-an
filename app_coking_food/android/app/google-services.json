@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055547289474",
+    "project_id": "app-coking-food",
+    "storage_bucket": "app-coking-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055547289474:android:1e0975fcf71e41b7abe99b",
+        "android_client_info": {
+          "package_name": "com.sdcompany.luxury.app_coking_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM0eApcRm0qcDB1YMjp7Ecjsy3mviSckk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
